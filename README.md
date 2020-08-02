@@ -7,7 +7,7 @@ Original repository: https://github.com/vim-airline/vim-airline
 Forked @ commit: `7fc51f69521eb9d1acb5f01ddd929e2cdf5d31fa`  
 
 Modifications:
-* added theme: `autoload/airline/themes/angry_dark.vim`
+* adjusted main theme: `autoload/airline/themes/dark.vim`
 
 ---
 
