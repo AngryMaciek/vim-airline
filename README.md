@@ -1,3 +1,16 @@
+### My personal fork of vim-airline
+
+*Maciej Bak*  
+*Swiss Institute of Bioinformatics*
+
+Original repository: https://github.com/vim-airline/vim-airline  
+Forked @ commit: `7fc51f69521eb9d1acb5f01ddd929e2cdf5d31fa`  
+
+Modifications:
+* added theme: `autoload/airline/themes/angry_dark.vim`
+
+---
+
 # vim-airline [![Build Status](https://travis-ci.org/vim-airline/vim-airline.svg?branch=master)](https://travis-ci.org/vim-airline/vim-airline) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/cb%40256bit.org) [![reviewdog](https://github.com/vim-airline/vim-airline/workflows/reviewdog/badge.svg?branch=master&event=push)](https://github.com/vim-airline/vim-airline/actions?query=workflow%3Areviewdog+event%3Apush+branch%3Amaster)
 
 Lean & mean status/tabline for vim that's light as air.
